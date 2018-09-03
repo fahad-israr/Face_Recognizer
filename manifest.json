@@ -1,15 +1,26 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Face Recognizer",
+  "name": "Face Recognizer On React",
   "icons": [
     {
       "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
+    },
+     {
+      "src": "face_android.png",
+      "sizes": "192x192",
+      "type": "image/png"
+       "density":"4.0"
+    },
+     {
+      "src": "face.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ],
   "start_url": "./index.html",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#ff3399",
+  "background_color": "#ff3399"
 }
