@@ -16,7 +16,9 @@ Then Insert Link of An Image (from Web) in the box and press detect.
 
 =>It Prompts you to Install The App to Your Device as Well.
 
-Audited with Google Chrome Light:
+Audited with Google LightHouse 4.2.0:
+
+![Lighthouse Report](https://raw.githubusercontent.com/fahad00cms/Face_Recognizer/master/Screenshot (424).png)
 
 
 
