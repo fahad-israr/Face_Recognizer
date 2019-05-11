@@ -18,7 +18,7 @@ Then Insert Link of An Image (from Web) in the box and press detect.
 
 Audited with Google LightHouse 4.2.0:
 
-![Lighthouse Report](https://raw.githubusercontent.com/fahad00cms/Face_Recognizer/master/Audit.png)
+![Lighthouse Report](https://raw.githubusercontent.com/fahad00cms/Face_Recognizer/gh-pages/Audit.png)
 
 
 
