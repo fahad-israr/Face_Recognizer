@@ -23,4 +23,4 @@ Audited with Google LightHouse 4.2.0: (<a href="https://sdsdd">Click To View Com
 
 
 
-<a href="https://raw.githubusercontent.com/fahad00cms/Face_Recognizer/gh-pages/Audit.pdf"> Download Complete Report</a>
+<u><strong><a href="https://raw.githubusercontent.com/fahad00cms/Face_Recognizer/gh-pages/Audit.pdf"> Download Complete Report</a></strong></u>
